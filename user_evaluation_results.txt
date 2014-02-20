@@ -1,0 +1,510 @@
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 3
+Q.3) 4
+Q.4) 1
+Q.5) 5
+Q.6) 5
+Q.7) 1
+Q.8) no
+Q.9) 2
+Q.10) 3
+Q.11) 2
+Q.12) 2
+Q.13) 3
+Q.14) 2
+Q.15) 5
+COMMENTS: Ha, I like the way
+you did this!!
+
+I tried all the advanced options
+at once but found them a little slow
+
+Other than this, was great!
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 2
+Q.8) no
+Q.9) 4
+Q.10) 4
+Q.11) 4
+Q.12) 4
+Q.13) 4
+Q.14) 2
+Q.15) 5
+COMMENTS: Easy to use, I like the colours.
+
+Could you maybe put a little more info for users on the site?....
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 3
+Q.5) 5
+Q.6) 5
+Q.7) 2
+Q.8) yes
+Q.9) 2
+Q.10) 3
+Q.11) 3
+Q.12) 2
+Q.13) 3
+Q.14) 2
+Q.15) 5
+COMMENTS: Stemming worked nice
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 5
+Q.4) 2
+Q.5) 5
+Q.6) 5
+Q.7) 3
+Q.8) no
+Q.9) 2
+Q.10) 5
+Q.11) 5
+Q.12) 1
+Q.13) 4
+Q.14) 3
+Q.15) 4
+COMMENTS: Some of the synonyms were a little confusing
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 1
+Q.3) 3
+Q.4) 2
+Q.5) 4
+Q.6) 4
+Q.7) 1
+Q.8) no
+Q.9) 5
+Q.10) 5
+Q.11) 4
+Q.12) 2
+Q.13) 2
+Q.14) 2
+Q.15) 3
+COMMENTS: 	
+
+
+----- EVALUATION RESULT -----
+Q.1) 
+Q.1.1) (if specified) : DuckDuckGo
+Q.2) 5
+Q.3) 5
+Q.4) 2
+Q.5) 5
+Q.6) 4
+Q.7) 2
+Q.8) yes
+Q.9) 4
+Q.10) 4
+Q.11) 5
+Q.12) 5
+Q.13) 5
+Q.14) 4
+Q.15) 5
+COMMENTS: Cool!
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 3
+Q.4) 2
+Q.5) 5
+Q.6) 5
+Q.7) 1
+Q.8) no
+Q.9) 2
+Q.10) 2
+Q.11) 4
+Q.12) 4
+Q.13) 3
+Q.14) 3
+Q.15) 4
+COMMENTS: Can you explain what the options are?
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 4
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 1
+Q.8) no
+Q.9) 4
+Q.10) 4
+Q.11) 5
+Q.12) 5
+Q.13) 2
+Q.14) 3
+Q.15) 4
+COMMENTS: :)
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 4
+Q.8) yes
+Q.9) 5
+Q.10) 5
+Q.11) 5
+Q.12) 5
+Q.13) 4
+Q.14) 5
+Q.15) 5
+COMMENTS: It found my spelling mistake!!!
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 4
+Q.4) 2
+Q.5) 5
+Q.6) 5
+Q.7) 5
+Q.8) yes
+Q.9) 2
+Q.10) 3
+Q.11) 5
+Q.12) 5
+Q.13) 1
+Q.14) 1
+Q.15) 5
+COMMENTS: Hi Kevin! 
+I checked spelling corrections and synonyms, seems to work fine
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 4
+Q.5) 5
+Q.6) 5
+Q.7) 1
+Q.8) no
+Q.9) 2
+Q.10) 5
+Q.11) 2
+Q.12) 3
+Q.13) 3
+Q.14) 2
+Q.15) 2
+COMMENTS: Can you make it faster?
+
+
+----- EVALUATION RESULT -----
+Q.1) Yahoo
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 5
+Q.8) yes
+Q.9) 4
+Q.10) 4
+Q.11) 4
+Q.12) 4
+Q.13) 4
+Q.14) 4
+Q.15) 4
+COMMENTS: 
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 3
+Q.3) 3
+Q.4) 5
+Q.5) 3
+Q.6) 3
+Q.7) 3
+Q.8) no
+Q.9) 3
+Q.10) 5
+Q.11) 5
+Q.12) 5
+Q.13) 5
+Q.14) 1
+Q.15) 5
+COMMENTS: Hyphen expansion + stemming
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 3
+Q.8) yes
+Q.9) 3
+Q.10) 3
+Q.11) 3
+Q.12) 3
+Q.13) 3
+Q.14) 3
+Q.15) 5
+COMMENTS: GREETINGS!! NICE!
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 4
+Q.4) 5
+Q.5) 5
+Q.6) 2
+Q.7) 1
+Q.8) no
+Q.9) 3
+Q.10) 3
+Q.11) 3
+Q.12) 3
+Q.13) 3
+Q.14) 1
+Q.15) 5
+COMMENTS: 
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 3
+Q.3) 2
+Q.4) 2
+Q.5) 4
+Q.6) 4
+Q.7) 4
+Q.8) no
+Q.9) 2
+Q.10) 2
+Q.11) 2
+Q.12) 2
+Q.13) 2
+Q.14) 2
+Q.15) 3
+COMMENTS: Result length is uneven....
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 4
+Q.7) 4
+Q.8) yes
+Q.9) 4
+Q.10) 5
+Q.11) 5
+Q.12) 1
+Q.13) 2
+Q.14) 1
+Q.15) 4
+COMMENTS: 
+
+
+----- EVALUATION RESULT -----
+Q.1) Yahoo
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 3
+Q.8) yes
+Q.9) 4
+Q.10) 4
+Q.11) 4
+Q.12) 4
+Q.13) 4
+Q.14) 5
+Q.15) 5
+COMMENTS: 	
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 2
+Q.4) 2
+Q.5) 5
+Q.6) 5
+Q.7) 1
+Q.8) no
+Q.9) 2
+Q.10) 2
+Q.11) 5
+Q.12) 5
+Q.13) 2
+Q.14) 1
+Q.15) 3
+COMMENTS: 	
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 4
+Q.3) 4
+Q.4) 4
+Q.5) 5
+Q.6) 5
+Q.7) 3
+Q.8) no
+Q.9) 2
+Q.10) 2
+Q.11) 2
+Q.12) 3
+Q.13) 3
+Q.14) 2
+Q.15) 3
+COMMENTS: The new google!
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 4
+Q.3) 5
+Q.4) 5
+Q.5) 4
+Q.6) 5
+Q.7) 3
+Q.8) no
+Q.9) 4
+Q.10) 5
+Q.11) 5
+Q.12) 1
+Q.13) 1
+Q.14) 1
+Q.15) 5
+COMMENTS: 	
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 4
+Q.3) 5
+Q.4) 4
+Q.5) 5
+Q.6) 5
+Q.7) 1
+Q.8) no
+Q.9) 4
+Q.10) 5
+Q.11) 1
+Q.12) 1
+Q.13) 1
+Q.14) 1
+Q.15) 5
+COMMENTS: Hey Kev! Put in:
+Case folding and stop words removal
+
+
+----- EVALUATION RESULT -----
+Q.1) Bing
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 4
+Q.4) 4
+Q.5) 3
+Q.6) 3
+Q.7) 4
+Q.8) yes
+Q.9) 2
+Q.10) 4
+Q.11) 5
+Q.12) 5
+Q.13) 4
+Q.14) 3
+Q.15) 5
+COMMENTS: 
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 2
+Q.3) 3
+Q.4) 3
+Q.5) 3
+Q.6) 3
+Q.7) 1
+Q.8) yes
+Q.9) 4
+Q.10) 4
+Q.11) 4
+Q.12) 4
+Q.13) 4
+Q.14) 4
+Q.15) 4
+COMMENTS: Sweet, tried to catch it out with a spelling error
+
+
+----- EVALUATION RESULT -----
+Q.1) Google
+Q.1.1) (if specified) : 
+Q.2) 5
+Q.3) 5
+Q.4) 5
+Q.5) 5
+Q.6) 5
+Q.7) 5
+Q.8) yes
+Q.9) 4
+Q.10) 5
+Q.11) 5
+Q.12) 5
+Q.13) 5
+Q.14) 5
+Q.15) 5
+COMMENTS: Clustering was cool
+
+
